@@ -14,12 +14,24 @@ Este laboratorio aborda algoritmos de clasificación avanzados en inteligencia a
 - Implementar los algoritmos solicitados desde cero y comparar con versiones de librerías.
 - Evaluar los modelos usando métricas adecuadas y realizar un análisis exhaustivo de los resultados.
 
-### Requisitos
-- Python
-- NumPy
-- Pandas
-- Scikit-learn (opcional para comparación)
-- Herramientas de visualización de datos (Matplotlib, Seaborn)
+## Deployment
+
+### Instalación de Dependencias
+Antes de comenzar a trabajar en el notebook, es necesario instalar las dependencias requeridas. Estas dependencias están especificadas en el archivo `requirements.txt`. Para instalarlas, ejecute el siguiente comando en su terminal:
+
+```
+pip install -r requirements.txt
+```
+
+### To deploy this Jupyter Notebook run
+
+1. Abre tu terminal y navega al directorio del proyecto.
+2. Ejecuta Jupyter Notebook:
+
+   ```
+   jupyter notebook
+   ```
+3. Abre el archivo `.ipynb` en la interfaz de Jupyter que se abre en tu navegador.
 
 ### Notas Adicionales
 - Se recomienda documentar todas las fases del proceso, incluyendo decisiones y análisis.
