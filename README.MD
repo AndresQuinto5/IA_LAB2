@@ -33,6 +33,3 @@ pip install -r requirements.txt
    ```
 3. Abre el archivo `.ipynb` en la interfaz de Jupyter que se abre en tu navegador.
 
-### Notas Adicionales
-- Se recomienda documentar todas las fases del proceso, incluyendo decisiones y análisis.
-- La creatividad y el rigor analítico serán valorados en la evaluación de este laboratorio.
