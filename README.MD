@@ -1,6 +1,7 @@
 # Laboratorio 2 - Inteligencia Artificial
 ## CC3045 - Semestre I - 2024
 #### Andres Quintos - 18288
+
 ### Descripción
 Este laboratorio aborda algoritmos de clasificación avanzados en inteligencia artificial. Los estudiantes profundizarán en métodos como Naive Bayes, Support Vector Machines (SVM) y Random Forest, aplicándolos en casos prácticos reales.
 
@@ -24,7 +25,6 @@ pip install -r requirements.txt
 ```
 
 ### To deploy this Jupyter Notebook run
-
 1. Abre tu terminal y navega al directorio del proyecto.
 2. Ejecuta Jupyter Notebook:
 
